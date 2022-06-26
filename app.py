@@ -1,4 +1,3 @@
-!apt apt install figlet -y
 from fileinput import filename
 import streamlit as st
 import os
