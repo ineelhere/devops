@@ -127,4 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-docker-demo/
+project_env/
+figlet.txt

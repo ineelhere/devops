@@ -8,5 +8,9 @@ text = st.text_input("Enter Text:")
 
 if text:
     os.system(f'figlet -c {text} > figlet.txt')
-    st.download_button("Download Figlet", filename="figlet.txt")
+    st.text(open('figlet.txt', 'r').read())
 
+st.markdown("""
+___
+[@ineelhere](https://github.com/ineelhere/)
+""", unsafe_allow_html=True)
