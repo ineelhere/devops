@@ -54,6 +54,8 @@ This `requirements.txt` file will be your single point of reference to reproduce
 
 ### Step 4 - Code Code Code!!!
 
+**[All codes available here](https://github.com/ineelhere/devops/tree/dockers)**
+
 We are now ready to write the python code that will basically give our webapp a frontend and allow creating the figlets.
 
 * Import the `streamlit` and `os` packages
@@ -99,6 +101,12 @@ ___
 [@ineelhere](https://github.com/ineelhere/)
 """, unsafe_allow_html=True)
 ```
+Run the webapp with the command (lets assume the code is present in the file `app.py`)
+```
+streamlit run app.py
+```
+
+![Screenshot from 2022-07-02 02-44-20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656710166185/4Xo4a6EvP.png)
 
 ![](https://media3.giphy.com/media/lXo8uSnIkaB9e/giphy.gif)
 
@@ -167,9 +175,7 @@ docker run ineelhere/figletapp:v1
 ### Step 6 - Enjoy!
 That's all for now, folks. Enjoy coding and enjoy life - yes, coders have a life and they also enjoy it ;)
 
-![](https://64.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gifv )
-
-
+![](https://64.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gifv)
 
 # Docker Basics
 
