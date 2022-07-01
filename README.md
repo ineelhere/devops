@@ -106,7 +106,7 @@ Run the webapp with the command (lets assume the code is present in the file `ap
 streamlit run app.py
 ```
 
-![Screenshot from 2022-07-02 02-44-20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656710166185/4Xo4a6EvP.png)
+![Screenshot from 2022-07-02 02-44-20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656710675852/6oROagzge.png)
 
 ![](https://media3.giphy.com/media/lXo8uSnIkaB9e/giphy.gif)
 
