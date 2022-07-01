@@ -161,7 +161,7 @@ So now on your DockerHub account you will see an image has been pushed and ready
 
 You can `pull` this image on your system or any destination with the command
 ```
-docker pull ineelhere/firgletapp:v1
+docker pull ineelhere/figletapp:v1
 ```
 And run the app with the command 
 ```
